@@ -1,0 +1,12 @@
+sources:
+  name: landing
+  database: DBT_TEST
+  schema: DBT_SCHEMA
+  tables:
+    Generatemodel
+    - name:
+      identifier: 
+    Generatemodel
+    - name:
+      identifier:
+    
