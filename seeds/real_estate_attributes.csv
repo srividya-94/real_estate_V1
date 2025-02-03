@@ -1,0 +1,491 @@
+VARIABLE,VARIABLE_NAME,MEASURE,UNIT,FREQUENCY,MEASUREMENT_TYPE,MEASUREMENT_PERIOD,BUILDING_USE,SEASONALLY_ADJUSTED
+ALL_A,Total Construction (Annual),Construction,USD,Annual,,,,
+ALL_COEFF_M,"Total Construction: Coefficienct of Variation, Monthly Estimate",Construction,Percent,Monthly,,,,
+ALL_COEFF_YTD,"Total Construction: Coefficient of Variation, Year-to-date estimate",Construction,Percent,Monthly,,,,
+ALL_NONRES_A,Total Nonresidential Construction (Annual),Nonresidential Construction,USD,Annual,,,,
+ALL_NONRES_AMUSEMENT_A,Nonresidential Construction: Amusement And Recreation (Annual),Nonresidential Construction,USD,Annual,,,Amusement and recreation,
+ALL_NONRES_AMUSEMENT_COEFF_M,"Nonresidential Construction: Amusement And Recreation: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+ALL_NONRES_AMUSEMENT_COEFF_YTD,"Nonresidential Construction: Amusement And Recreation: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+ALL_NONRES_AMUSEMENT_NSA,Nonresidential Construction: Amusement And Recreation (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Amusement and recreation,false
+ALL_NONRES_AMUSEMENT_SA,Nonresidential Construction: Amusement And Recreation (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Amusement and recreation,true
+ALL_NONRES_AMUSEMENT_STD_ERR_MM,"Nonresidential Construction: Amusement And Recreation: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+ALL_NONRES_AMUSEMENT_STD_ERR_MM_PY,"Nonresidential Construction: Amusement And Recreation: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+ALL_NONRES_AMUSEMENT_STD_ERR_YTD,"Nonresidential Construction: Amusement And Recreation: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+ALL_NONRES_COEFF_M,"Total Nonresidential Construction: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,,
+ALL_NONRES_COEFF_YTD,"Total Nonresidential Construction: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,,
+ALL_NONRES_COMMERCIAL_A,Nonresidential Construction: Commercial (Annual),Nonresidential Construction,USD,Annual,,,Commercial,
+ALL_NONRES_COMMERCIAL_COEFF_M,"Nonresidential Construction: Commercial: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Commercial,
+ALL_NONRES_COMMERCIAL_COEFF_YTD,"Nonresidential Construction: Commercial: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Commercial,
+ALL_NONRES_COMMERCIAL_NSA,Nonresidential Construction: Commercial (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Commercial,false
+ALL_NONRES_COMMERCIAL_SA,Nonresidential Construction: Commercial (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Commercial,true
+ALL_NONRES_COMMERCIAL_STD_ERR_MM,"Nonresidential Construction: Commercial: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Commercial,
+ALL_NONRES_COMMERCIAL_STD_ERR_MM_PY,"Nonresidential Construction: Commercial: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Commercial,
+ALL_NONRES_COMMERCIAL_STD_ERR_YTD,"Nonresidential Construction: Commercial: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Commercial,
+ALL_NONRES_COMMUNICATION_A,Nonresidential Construction: Communication (Annual),Nonresidential Construction,USD,Annual,,,Communication,
+ALL_NONRES_COMMUNICATION_NSA,Nonresidential Construction: Communication (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Communication,false
+ALL_NONRES_COMMUNICATION_SA,Nonresidential Construction: Communication (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Communication,true
+ALL_NONRES_CONSERVATION_A,Nonresidential Construction: Conservation And Development (Annual),Nonresidential Construction,USD,Annual,,,Conservation and development,
+ALL_NONRES_CONSERVATION_COEFF_M,"Nonresidential Construction: Conservation And Development: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+ALL_NONRES_CONSERVATION_COEFF_YTD,"Nonresidential Construction: Conservation And Development: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+ALL_NONRES_CONSERVATION_NSA,Nonresidential Construction: Conservation And Development (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Conservation and development,false
+ALL_NONRES_CONSERVATION_SA,Nonresidential Construction: Conservation And Development (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Conservation and development,true
+ALL_NONRES_CONSERVATION_STD_ERR_MM,"Nonresidential Construction: Conservation And Development: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+ALL_NONRES_CONSERVATION_STD_ERR_MM_PY,"Nonresidential Construction: Conservation And Development: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+ALL_NONRES_CONSERVATION_STD_ERR_YTD,"Nonresidential Construction: Conservation And Development: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+ALL_NONRES_EDUCATIONAL_A,Nonresidential Construction: Educational (Annual),Nonresidential Construction,USD,Annual,,,Educational,
+ALL_NONRES_EDUCATIONAL_COEFF_M,"Nonresidential Construction: Educational: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Educational,
+ALL_NONRES_EDUCATIONAL_COEFF_YTD,"Nonresidential Construction: Educational: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Educational,
+ALL_NONRES_EDUCATIONAL_NSA,Nonresidential Construction: Educational (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Educational,false
+ALL_NONRES_EDUCATIONAL_SA,Nonresidential Construction: Educational (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Educational,true
+ALL_NONRES_EDUCATIONAL_STD_ERR_MM,"Nonresidential Construction: Educational: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Educational,
+ALL_NONRES_EDUCATIONAL_STD_ERR_MM_PY,"Nonresidential Construction: Educational: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Educational,
+ALL_NONRES_EDUCATIONAL_STD_ERR_YTD,"Nonresidential Construction: Educational: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Educational,
+ALL_NONRES_HEALTH_A,Nonresidential Construction: Health Care (Annual),Nonresidential Construction,USD,Annual,,,Health care,
+ALL_NONRES_HEALTH_COEFF_M,"Nonresidential Construction: Health Care: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Health care,
+ALL_NONRES_HEALTH_COEFF_YTD,"Nonresidential Construction: Health Care: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Health care,
+ALL_NONRES_HEALTH_NSA,Nonresidential Construction: Health Care (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Health care,false
+ALL_NONRES_HEALTH_SA,Nonresidential Construction: Health Care (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Health care,true
+ALL_NONRES_HEALTH_STD_ERR_MM,"Nonresidential Construction: Health Care: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Health care,
+ALL_NONRES_HEALTH_STD_ERR_MM_PY,"Nonresidential Construction: Health Care: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Health care,
+ALL_NONRES_HEALTH_STD_ERR_YTD,"Nonresidential Construction: Health Care: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Health care,
+ALL_NONRES_HIGHWAY_A,Nonresidential Construction: Highway And Street (Annual),Nonresidential Construction,USD,Annual,,,Highway and street,
+ALL_NONRES_HIGHWAY_COEFF_M,"Nonresidential Construction: Highway And Street: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Highway and street,
+ALL_NONRES_HIGHWAY_COEFF_YTD,"Nonresidential Construction: Highway And Street: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Highway and street,
+ALL_NONRES_HIGHWAY_NSA,Nonresidential Construction: Highway And Street (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Highway and street,false
+ALL_NONRES_HIGHWAY_SA,Nonresidential Construction: Highway And Street (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Highway and street,true
+ALL_NONRES_HIGHWAY_STD_ERR_MM,"Nonresidential Construction: Highway And Street: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Highway and street,
+ALL_NONRES_HIGHWAY_STD_ERR_MM_PY,"Nonresidential Construction: Highway And Street: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Highway and street,
+ALL_NONRES_HIGHWAY_STD_ERR_YTD,"Nonresidential Construction: Highway And Street: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Highway and street,
+ALL_NONRES_LODGING_A,Nonresidential Construction: Lodging (Annual),Nonresidential Construction,USD,Annual,,,Lodging,
+ALL_NONRES_LODGING_COEFF_M,"Nonresidential Construction: Lodging: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Lodging,
+ALL_NONRES_LODGING_COEFF_YTD,"Nonresidential Construction: Lodging: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Lodging,
+ALL_NONRES_LODGING_NSA,Nonresidential Construction: Lodging (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Lodging,false
+ALL_NONRES_LODGING_SA,Nonresidential Construction: Lodging (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Lodging,true
+ALL_NONRES_LODGING_STD_ERR_MM,"Nonresidential Construction: Lodging: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Lodging,
+ALL_NONRES_LODGING_STD_ERR_MM_PY,"Nonresidential Construction: Lodging: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Lodging,
+ALL_NONRES_LODGING_STD_ERR_YTD,"Nonresidential Construction: Lodging: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Lodging,
+ALL_NONRES_MANUFACTURING_A,Nonresidential Construction: Manufacturing (Annual),Nonresidential Construction,USD,Annual,,,Manufacturing,
+ALL_NONRES_MANUFACTURING_COEFF_M,"Nonresidential Construction: Manufacturing: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+ALL_NONRES_MANUFACTURING_COEFF_YTD,"Nonresidential Construction: Manufacturing: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+ALL_NONRES_MANUFACTURING_NSA,Nonresidential Construction: Manufacturing (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Manufacturing,false
+ALL_NONRES_MANUFACTURING_SA,Nonresidential Construction: Manufacturing (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Manufacturing,true
+ALL_NONRES_MANUFACTURING_STD_ERR_MM,"Nonresidential Construction: Manufacturing: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+ALL_NONRES_MANUFACTURING_STD_ERR_MM_PY,"Nonresidential Construction: Manufacturing: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+ALL_NONRES_MANUFACTURING_STD_ERR_YTD,"Nonresidential Construction: Manufacturing: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+ALL_NONRES_NSA,Total Nonresidential Construction (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,,false
+ALL_NONRES_OFFICE_A,Nonresidential Construction: Office (Annual),Nonresidential Construction,USD,Annual,,,Office,
+ALL_NONRES_OFFICE_COEFF_M,"Nonresidential Construction: Office: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Office,
+ALL_NONRES_OFFICE_COEFF_YTD,"Nonresidential Construction: Office: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Office,
+ALL_NONRES_OFFICE_NSA,Nonresidential Construction: Office (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Office,false
+ALL_NONRES_OFFICE_SA,Nonresidential Construction: Office (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Office,true
+ALL_NONRES_OFFICE_STD_ERR_MM,"Nonresidential Construction: Office: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Office,
+ALL_NONRES_OFFICE_STD_ERR_MM_PY,"Nonresidential Construction: Office: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Office,
+ALL_NONRES_OFFICE_STD_ERR_YTD,"Nonresidential Construction: Office: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Office,
+ALL_NONRES_POWER_A,Nonresidential Construction: Power (Annual),Nonresidential Construction,USD,Annual,,,Power,
+ALL_NONRES_POWER_COEFF_M,"Nonresidential Construction: Power: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Power,
+ALL_NONRES_POWER_COEFF_YTD,"Nonresidential Construction: Power: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Power,
+ALL_NONRES_POWER_NSA,Nonresidential Construction: Power (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Power,false
+ALL_NONRES_POWER_SA,Nonresidential Construction: Power (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Power,true
+ALL_NONRES_POWER_STD_ERR_MM,"Nonresidential Construction: Power: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Power,
+ALL_NONRES_POWER_STD_ERR_MM_PY,"Nonresidential Construction: Power: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Power,
+ALL_NONRES_POWER_STD_ERR_YTD,"Nonresidential Construction: Power: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Power,
+ALL_NONRES_PUBLIC_A,Nonresidential Construction: Public Safety (Annual),Nonresidential Construction,USD,Annual,,,Public safety,
+ALL_NONRES_PUBLIC_COEFF_M,"Nonresidential Construction: Public Safety: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Public safety,
+ALL_NONRES_PUBLIC_COEFF_YTD,"Nonresidential Construction: Public Safety: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Public safety,
+ALL_NONRES_PUBLIC_NSA,Nonresidential Construction: Public Safety (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Public safety,false
+ALL_NONRES_PUBLIC_SA,Nonresidential Construction: Public Safety (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Public safety,true
+ALL_NONRES_PUBLIC_STD_ERR_MM,"Nonresidential Construction: Public Safety: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Public safety,
+ALL_NONRES_PUBLIC_STD_ERR_MM_PY,"Nonresidential Construction: Public Safety: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Public safety,
+ALL_NONRES_PUBLIC_STD_ERR_YTD,"Nonresidential Construction: Public Safety: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Public safety,
+ALL_NONRES_RELIGIOUS_A,Nonresidential Construction: Religious (Annual),Nonresidential Construction,USD,Annual,,,Religious,
+ALL_NONRES_RELIGIOUS_COEFF_M,"Nonresidential Construction: Religious: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Religious,
+ALL_NONRES_RELIGIOUS_COEFF_YTD,"Nonresidential Construction: Religious: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Religious,
+ALL_NONRES_RELIGIOUS_NSA,Nonresidential Construction: Religious (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Religious,false
+ALL_NONRES_RELIGIOUS_SA,Nonresidential Construction: Religious (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Religious,true
+ALL_NONRES_RELIGIOUS_STD_ERR_MM,"Nonresidential Construction: Religious: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Religious,
+ALL_NONRES_RELIGIOUS_STD_ERR_MM_PY,"Nonresidential Construction: Religious: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Religious,
+ALL_NONRES_RELIGIOUS_STD_ERR_YTD,"Nonresidential Construction: Religious: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Religious,
+ALL_NONRES_SA,Total Nonresidential Construction (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,,true
+ALL_NONRES_SEWAGE_A,Nonresidential Construction: Sewage And Waste Disposal (Annual),Nonresidential Construction,USD,Annual,,,Sewage and waste disposal,
+ALL_NONRES_SEWAGE_COEFF_M,"Nonresidential Construction: Sewage And Waste Disposal: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+ALL_NONRES_SEWAGE_COEFF_YTD,"Nonresidential Construction: Sewage And Waste Disposal: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+ALL_NONRES_SEWAGE_NSA,Nonresidential Construction: Sewage And Waste Disposal (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Sewage and waste disposal,false
+ALL_NONRES_SEWAGE_SA,Nonresidential Construction: Sewage And Waste Disposal (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Sewage and waste disposal,true
+ALL_NONRES_SEWAGE_STD_ERR_MM,"Nonresidential Construction: Sewage And Waste Disposal: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+ALL_NONRES_SEWAGE_STD_ERR_MM_PY,"Nonresidential Construction: Sewage And Waste Disposal: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+ALL_NONRES_SEWAGE_STD_ERR_YTD,"Nonresidential Construction: Sewage And Waste Disposal: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+ALL_NONRES_STD_ERR_MM,"Total Nonresidential Construction: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,,
+ALL_NONRES_STD_ERR_MM_PY,"Total Nonresidential Construction: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,,
+ALL_NONRES_STD_ERR_YTD,"Total Nonresidential Construction: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,,
+ALL_NONRES_TRANSPORTATION_A,Nonresidential Construction: Transportation (Annual),Nonresidential Construction,USD,Annual,,,Transportation,
+ALL_NONRES_TRANSPORTATION_COEFF_M,"Nonresidential Construction: Transportation: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Transportation,
+ALL_NONRES_TRANSPORTATION_COEFF_YTD,"Nonresidential Construction: Transportation: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Transportation,
+ALL_NONRES_TRANSPORTATION_NSA,Nonresidential Construction: Transportation (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Transportation,false
+ALL_NONRES_TRANSPORTATION_SA,Nonresidential Construction: Transportation (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Transportation,true
+ALL_NONRES_TRANSPORTATION_STD_ERR_MM,"Nonresidential Construction: Transportation: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Transportation,
+ALL_NONRES_TRANSPORTATION_STD_ERR_MM_PY,"Nonresidential Construction: Transportation: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Transportation,
+ALL_NONRES_TRANSPORTATION_STD_ERR_YTD,"Nonresidential Construction: Transportation: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Transportation,
+ALL_NONRES_WATER_A,Nonresidential Construction: Water Supply (Annual),Nonresidential Construction,USD,Annual,,,Water supply,
+ALL_NONRES_WATER_COEFF_M,"Nonresidential Construction: Water Supply: Coefficienct of Variation, Monthly Estimate",Nonresidential Construction,Percent,Monthly,,,Water supply,
+ALL_NONRES_WATER_COEFF_YTD,"Nonresidential Construction: Water Supply: Coefficient of Variation, Year-to-date estimate",Nonresidential Construction,Percent,Monthly,,,Water supply,
+ALL_NONRES_WATER_NSA,Nonresidential Construction: Water Supply (Not Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Water supply,false
+ALL_NONRES_WATER_SA,Nonresidential Construction: Water Supply (Seasonally Adjusted),Nonresidential Construction,USD,Monthly,,,Water supply,true
+ALL_NONRES_WATER_STD_ERR_MM,"Nonresidential Construction: Water Supply: Standard Error, Month-to-month change",Nonresidential Construction,Percent,Monthly,,,Water supply,
+ALL_NONRES_WATER_STD_ERR_MM_PY,"Nonresidential Construction: Water Supply: Standard Error, Month-to-month change from previous year",Nonresidential Construction,Percent,Monthly,,,Water supply,
+ALL_NONRES_WATER_STD_ERR_YTD,"Nonresidential Construction: Water Supply: Standard Error, Year-to-date change",Nonresidential Construction,Percent,Monthly,,,Water supply,
+ALL_NSA,Total Construction (Not Seasonally Adjusted),Construction,USD,Monthly,,,,false
+ALL_RES_A,Total Residential Construction (Annual),Residential Construction,USD,Annual,,,,
+ALL_RES_COEFF_M,"Total Residential Construction: Coefficienct of Variation, Monthly Estimate",Residential Construction,Percent,Monthly,,,,
+ALL_RES_COEFF_YTD,"Total Residential Construction: Coefficient of Variation, Year-to-date estimate",Residential Construction,Percent,Monthly,,,,
+ALL_RES_NSA,Total Residential Construction (Not Seasonally Adjusted),Residential Construction,USD,Monthly,,,,false
+ALL_RES_SA,Total Residential Construction (Seasonally Adjusted),Residential Construction,USD,Monthly,,,,true
+ALL_RES_STD_ERR_MM,"Total Residential Construction: Standard Error, Month-to-month change",Residential Construction,Percent,Monthly,,,,
+ALL_RES_STD_ERR_MM_PY,"Total Residential Construction: Standard Error, Month-to-month change from previous year",Residential Construction,Percent,Monthly,,,,
+ALL_RES_STD_ERR_YTD,"Total Residential Construction: Standard Error, Year-to-date change",Residential Construction,Percent,Monthly,,,,
+ALL_SA,Total Construction (Seasonally Adjusted),Construction,USD,Monthly,,,,true
+ALL_STD_ERR_MM,"Total Construction: Standard Error, Month-to-month change",Construction,Percent,Monthly,,,,
+ALL_STD_ERR_MM_PY,"Total Construction: Standard Error, Month-to-month change from previous year",Construction,Percent,Monthly,,,,
+ALL_STD_ERR_YTD,"Total Construction: Standard Error, Year-to-date change",Construction,Percent,Monthly,,,,
+BLDGS_1_UNIT_A,Single Family Houses buildings: Estimates With Imputation (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Single Family Houses,
+BLDGS_1_UNIT_M,"Single Family Houses buildings: Estimates With Imputation (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Single Family Houses,
+BLDGS_1_UNIT_M_YTD,"Single Family Houses buildings: Estimates With Imputation (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Single Family Houses,
+BLDGS_1_UNIT_REP_A,Single Family Houses buildings reported: Reported Only Data (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Single Family Houses,
+BLDGS_1_UNIT_REP_M,"Single Family Houses buildings reported: Reported Only Data (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Single Family Houses,
+BLDGS_1_UNIT_REP_M_YTD,"Single Family Houses buildings reported: Reported Only Data (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Single Family Houses,
+BLDGS_2_UNITS_A,Two-Family Buildings: Estimates With Imputation (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Two-Family Buildings,
+BLDGS_2_UNITS_M,"Two-Family Buildings: Estimates With Imputation (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Two-Family Buildings,
+BLDGS_2_UNITS_M_YTD,"Two-Family Buildings: Estimates With Imputation (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Two-Family Buildings,
+BLDGS_2_UNITS_REP_A,Two-Family Buildings reported: Reported Only Data (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Two-Family Buildings,
+BLDGS_2_UNITS_REP_M,"Two-Family Buildings reported: Reported Only Data (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Two-Family Buildings,
+BLDGS_2_UNITS_REP_M_YTD,"Two-Family Buildings reported: Reported Only Data (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Two-Family Buildings,
+BLDGS_3_4_UNITS_A,Three- and Four-Family Buildings: Estimates With Imputation (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Three- and Four-Family Buildings,
+BLDGS_3_4_UNITS_M,"Three- and Four-Family Buildings: Estimates With Imputation (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Three- and Four-Family Buildings,
+BLDGS_3_4_UNITS_M_YTD,"Three- and Four-Family Buildings: Estimates With Imputation (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Three- and Four-Family Buildings,
+BLDGS_3_4_UNITS_REP_A,Three- and Four-Family Buildings reported: Reported Only Data (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Three- and Four-Family Buildings,
+BLDGS_3_4_UNITS_REP_M,"Three- and Four-Family Buildings reported: Reported Only Data (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Three- and Four-Family Buildings,
+BLDGS_3_4_UNITS_REP_M_YTD,"Three- and Four-Family Buildings reported: Reported Only Data (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Three- and Four-Family Buildings,
+BLDGS_5_UNITS_A,Five-or-More Family Buildings: Estimates With Imputation (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Five-or-More Family Buildings,
+BLDGS_5_UNITS_M,"Five-or-More Family Buildings: Estimates With Imputation (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Five-or-More Family Buildings,
+BLDGS_5_UNITS_M_YTD,"Five-or-More Family Buildings: Estimates With Imputation (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Five-or-More Family Buildings,
+BLDGS_5_UNITS_REP_A,Five-or-More Family Buildings reported: Reported Only Data (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Five-or-More Family Buildings,
+BLDGS_5_UNITS_REP_M,"Five-or-More Family Buildings reported: Reported Only Data (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Five-or-More Family Buildings,
+BLDGS_5_UNITS_REP_M_YTD,"Five-or-More Family Buildings reported: Reported Only Data (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Five-or-More Family Buildings,
+PRIVATE_NONRES_A,Private Nonresidential Construction (Annual),Private Nonresidential Construction,USD,Annual,,,,
+PRIVATE_NONRES_AMUSEMENT_A,Private Nonresidential Construction: Amusement and recreation (Annual),Private Nonresidential Construction,USD,Annual,,,Amusement and recreation,
+PRIVATE_NONRES_AMUSEMENT_COEFF_M,"Private Nonresidential Construction: Amusement and recreation: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PRIVATE_NONRES_AMUSEMENT_COEFF_YTD,"Private Nonresidential Construction: Amusement and recreation: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PRIVATE_NONRES_AMUSEMENT_NSA,Private Nonresidential Construction: Amusement and recreation (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Amusement and recreation,false
+PRIVATE_NONRES_AMUSEMENT_SA,Private Nonresidential Construction: Amusement and recreation (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Amusement and recreation,true
+PRIVATE_NONRES_AMUSEMENT_STD_ERR_MM,"Private Nonresidential Construction: Amusement and recreation: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PRIVATE_NONRES_AMUSEMENT_STD_ERR_MM_PY,"Private Nonresidential Construction: Amusement and recreation: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PRIVATE_NONRES_AMUSEMENT_STD_ERR_YTD,"Private Nonresidential Construction: Amusement and recreation: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PRIVATE_NONRES_COEFF_M,"Private Nonresidential Construction: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,,
+PRIVATE_NONRES_COEFF_YTD,"Private Nonresidential Construction: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,,
+PRIVATE_NONRES_COMMERCIAL_A,Private Nonresidential Construction: Commercial (Annual),Private Nonresidential Construction,USD,Annual,,,Commercial,
+PRIVATE_NONRES_COMMERCIAL_COEFF_M,"Private Nonresidential Construction: Commercial: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Commercial,
+PRIVATE_NONRES_COMMERCIAL_COEFF_YTD,"Private Nonresidential Construction: Commercial: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Commercial,
+PRIVATE_NONRES_COMMERCIAL_NSA,Private Nonresidential Construction: Commercial (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Commercial,false
+PRIVATE_NONRES_COMMERCIAL_SA,Private Nonresidential Construction: Commercial (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Commercial,true
+PRIVATE_NONRES_COMMERCIAL_STD_ERR_MM,"Private Nonresidential Construction: Commercial: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Commercial,
+PRIVATE_NONRES_COMMERCIAL_STD_ERR_MM_PY,"Private Nonresidential Construction: Commercial: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Commercial,
+PRIVATE_NONRES_COMMERCIAL_STD_ERR_YTD,"Private Nonresidential Construction: Commercial: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Commercial,
+PRIVATE_NONRES_COMMUNICATION_NSA,Private Nonresidential Construction: Communication (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Communication,false
+PRIVATE_NONRES_COMMUNICATION_SA,Private Nonresidential Construction: Communication (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Communication,true
+PRIVATE_NONRES_EDUCATIONAL_A,Private Nonresidential Construction: Educational (Annual),Private Nonresidential Construction,USD,Annual,,,Educational,
+PRIVATE_NONRES_EDUCATIONAL_COEFF_M,"Private Nonresidential Construction: Educational: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Educational,
+PRIVATE_NONRES_EDUCATIONAL_COEFF_YTD,"Private Nonresidential Construction: Educational: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Educational,
+PRIVATE_NONRES_EDUCATIONAL_NSA,Private Nonresidential Construction: Educational (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Educational,false
+PRIVATE_NONRES_EDUCATIONAL_SA,Private Nonresidential Construction: Educational (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Educational,true
+PRIVATE_NONRES_EDUCATIONAL_STD_ERR_MM,"Private Nonresidential Construction: Educational: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Educational,
+PRIVATE_NONRES_EDUCATIONAL_STD_ERR_MM_PY,"Private Nonresidential Construction: Educational: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Educational,
+PRIVATE_NONRES_EDUCATIONAL_STD_ERR_YTD,"Private Nonresidential Construction: Educational: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Educational,
+PRIVATE_NONRES_HEALTH_A,Private Nonresidential Construction: Health care (Annual),Private Nonresidential Construction,USD,Annual,,,Health care,
+PRIVATE_NONRES_HEALTH_COEFF_M,"Private Nonresidential Construction: Health care: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Health care,
+PRIVATE_NONRES_HEALTH_COEFF_YTD,"Private Nonresidential Construction: Health care: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Health care,
+PRIVATE_NONRES_HEALTH_NSA,Private Nonresidential Construction: Health care (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Health care,false
+PRIVATE_NONRES_HEALTH_SA,Private Nonresidential Construction: Health care (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Health care,true
+PRIVATE_NONRES_HEALTH_STD_ERR_MM,"Private Nonresidential Construction: Health care: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Health care,
+PRIVATE_NONRES_HEALTH_STD_ERR_MM_PY,"Private Nonresidential Construction: Health care: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Health care,
+PRIVATE_NONRES_HEALTH_STD_ERR_YTD,"Private Nonresidential Construction: Health care: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Health care,
+PRIVATE_NONRES_LODGING_A,Private Nonresidential Construction: Lodging (Annual),Private Nonresidential Construction,USD,Annual,,,Lodging,
+PRIVATE_NONRES_LODGING_COEFF_M,"Private Nonresidential Construction: Lodging: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Lodging,
+PRIVATE_NONRES_LODGING_COEFF_YTD,"Private Nonresidential Construction: Lodging: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Lodging,
+PRIVATE_NONRES_LODGING_NSA,Private Nonresidential Construction: Lodging (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Lodging,false
+PRIVATE_NONRES_LODGING_SA,Private Nonresidential Construction: Lodging (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Lodging,true
+PRIVATE_NONRES_LODGING_STD_ERR_MM,"Private Nonresidential Construction: Lodging: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Lodging,
+PRIVATE_NONRES_LODGING_STD_ERR_MM_PY,"Private Nonresidential Construction: Lodging: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Lodging,
+PRIVATE_NONRES_LODGING_STD_ERR_YTD,"Private Nonresidential Construction: Lodging: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Lodging,
+PRIVATE_NONRES_MANUFACTURING_A,Private Nonresidential Construction: Manufacturing (Annual),Private Nonresidential Construction,USD,Annual,,,Manufacturing,
+PRIVATE_NONRES_MANUFACTURING_COEFF_M,"Private Nonresidential Construction: Manufacturing: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+PRIVATE_NONRES_MANUFACTURING_COEFF_YTD,"Private Nonresidential Construction: Manufacturing: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+PRIVATE_NONRES_MANUFACTURING_NSA,Private Nonresidential Construction: Manufacturing (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Manufacturing,false
+PRIVATE_NONRES_MANUFACTURING_SA,Private Nonresidential Construction: Manufacturing (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Manufacturing,true
+PRIVATE_NONRES_MANUFACTURING_STD_ERR_MM,"Private Nonresidential Construction: Manufacturing: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+PRIVATE_NONRES_MANUFACTURING_STD_ERR_MM_PY,"Private Nonresidential Construction: Manufacturing: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+PRIVATE_NONRES_MANUFACTURING_STD_ERR_YTD,"Private Nonresidential Construction: Manufacturing: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Manufacturing,
+PRIVATE_NONRES_NSA,Private Nonresidential Construction (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,,false
+PRIVATE_NONRES_OFFICE_A,Private Nonresidential Construction: Office (Annual),Private Nonresidential Construction,USD,Annual,,,Office,
+PRIVATE_NONRES_OFFICE_COEFF_M,"Private Nonresidential Construction: Office: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Office,
+PRIVATE_NONRES_OFFICE_COEFF_YTD,"Private Nonresidential Construction: Office: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Office,
+PRIVATE_NONRES_OFFICE_NSA,Private Nonresidential Construction: Office (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Office,false
+PRIVATE_NONRES_OFFICE_SA,Private Nonresidential Construction: Office (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Office,true
+PRIVATE_NONRES_OFFICE_STD_ERR_MM,"Private Nonresidential Construction: Office: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Office,
+PRIVATE_NONRES_OFFICE_STD_ERR_MM_PY,"Private Nonresidential Construction: Office: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Office,
+PRIVATE_NONRES_OFFICE_STD_ERR_YTD,"Private Nonresidential Construction: Office: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Office,
+PRIVATE_NONRES_POWER_A,Private Nonresidential Construction: Power (Annual),Private Nonresidential Construction,USD,Annual,,,Power,
+PRIVATE_NONRES_POWER_COEFF_M,"Private Nonresidential Construction: Power: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Power,
+PRIVATE_NONRES_POWER_COEFF_YTD,"Private Nonresidential Construction: Power: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Power,
+PRIVATE_NONRES_POWER_NSA,Private Nonresidential Construction: Power (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Power,false
+PRIVATE_NONRES_POWER_SA,Private Nonresidential Construction: Power (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Power,true
+PRIVATE_NONRES_POWER_STD_ERR_MM,"Private Nonresidential Construction: Power: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Power,
+PRIVATE_NONRES_POWER_STD_ERR_MM_PY,"Private Nonresidential Construction: Power: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Power,
+PRIVATE_NONRES_POWER_STD_ERR_YTD,"Private Nonresidential Construction: Power: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Power,
+PRIVATE_NONRES_PUBLIC_A,Private Nonresidential Construction: Public safety (Annual),Private Nonresidential Construction,USD,Annual,,,Public safety,
+PRIVATE_NONRES_RELIGIOUS_A,Private Nonresidential Construction: Religious (Annual),Private Nonresidential Construction,USD,Annual,,,Religious,
+PRIVATE_NONRES_RELIGIOUS_COEFF_M,"Private Nonresidential Construction: Religious: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Religious,
+PRIVATE_NONRES_RELIGIOUS_COEFF_YTD,"Private Nonresidential Construction: Religious: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Religious,
+PRIVATE_NONRES_RELIGIOUS_NSA,Private Nonresidential Construction: Religious (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Religious,false
+PRIVATE_NONRES_RELIGIOUS_SA,Private Nonresidential Construction: Religious (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Religious,true
+PRIVATE_NONRES_RELIGIOUS_STD_ERR_MM,"Private Nonresidential Construction: Religious: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Religious,
+PRIVATE_NONRES_RELIGIOUS_STD_ERR_MM_PY,"Private Nonresidential Construction: Religious: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Religious,
+PRIVATE_NONRES_RELIGIOUS_STD_ERR_YTD,"Private Nonresidential Construction: Religious: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Religious,
+PRIVATE_NONRES_SA,Private Nonresidential Construction (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,,true
+PRIVATE_NONRES_SEWAGE_A,Private Nonresidential Construction: Sewage and waste disposal (Annual),Private Nonresidential Construction,USD,Annual,,,Sewage and waste disposal,
+PRIVATE_NONRES_STD_ERR_MM,"Private Nonresidential Construction: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,,
+PRIVATE_NONRES_STD_ERR_MM_PY,"Private Nonresidential Construction: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,,
+PRIVATE_NONRES_STD_ERR_YTD,"Private Nonresidential Construction: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,,
+PRIVATE_NONRES_TRANSPORTATION_A,Private Nonresidential Construction: Transportation (Annual),Private Nonresidential Construction,USD,Annual,,,Transportation,
+PRIVATE_NONRES_TRANSPORTATION_COEFF_M,"Private Nonresidential Construction: Transportation: Coefficienct of Variation, Monthly Estimate",Private Nonresidential Construction,Percent,Monthly,,,Transportation,
+PRIVATE_NONRES_TRANSPORTATION_COEFF_YTD,"Private Nonresidential Construction: Transportation: Coefficient of Variation, Year-to-date estimate",Private Nonresidential Construction,Percent,Monthly,,,Transportation,
+PRIVATE_NONRES_TRANSPORTATION_NSA,Private Nonresidential Construction: Transportation (Not Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Transportation,false
+PRIVATE_NONRES_TRANSPORTATION_SA,Private Nonresidential Construction: Transportation (Seasonally Adjusted),Private Nonresidential Construction,USD,Monthly,,,Transportation,true
+PRIVATE_NONRES_TRANSPORTATION_STD_ERR_MM,"Private Nonresidential Construction: Transportation: Standard Error, Month-to-month change",Private Nonresidential Construction,Percent,Monthly,,,Transportation,
+PRIVATE_NONRES_TRANSPORTATION_STD_ERR_MM_PY,"Private Nonresidential Construction: Transportation: Standard Error, Month-to-month change from previous year",Private Nonresidential Construction,Percent,Monthly,,,Transportation,
+PRIVATE_NONRES_TRANSPORTATION_STD_ERR_YTD,"Private Nonresidential Construction: Transportation: Standard Error, Year-to-date change",Private Nonresidential Construction,Percent,Monthly,,,Transportation,
+PRIVATE_NONRES_WATER_A,Private Nonresidential Construction: Water supply (Annual),Private Nonresidential Construction,USD,Annual,,,Water supply,
+PRIVATE_RES_A,Private Residential Construction (Annual),Private Residential Construction,USD,Annual,,,,
+PRIVATE_RES_COEFF_M,"Private Residential Construction: Coefficienct of Variation, Monthly Estimate",Private Residential Construction,Percent,Monthly,,,,
+PRIVATE_RES_COEFF_YTD,"Private Residential Construction: Coefficient of Variation, Year-to-date estimate",Private Residential Construction,Percent,Monthly,,,,
+PRIVATE_RES_NEW_A,Private Residential Construction: New multi-family (Annual),Private Residential Construction,USD,Annual,,,New multi-family,
+PRIVATE_RES_NEW_COEFF_M,"Private Residential Construction: New multi-family: Coefficienct of Variation, Monthly Estimate",Private Residential Construction,Percent,Monthly,,,New multi-family,
+PRIVATE_RES_NEW_COEFF_YTD,"Private Residential Construction: New multi-family: Coefficient of Variation, Year-to-date estimate",Private Residential Construction,Percent,Monthly,,,New multi-family,
+PRIVATE_RES_NEW_MULTIFAM_A,Private Residential Construction: New multifamily (Annual),Private Residential Construction,USD,Annual,,,New multifamily,
+PRIVATE_RES_NEW_MULTIFAM_COEFF_M,"Private Residential Construction: New multifamily: Coefficienct of Variation, Monthly Estimate",Private Residential Construction,Percent,Monthly,,,New multifamily,
+PRIVATE_RES_NEW_MULTIFAM_COEFF_YTD,"Private Residential Construction: New multifamily: Coefficient of Variation, Year-to-date estimate",Private Residential Construction,Percent,Monthly,,,New multifamily,
+PRIVATE_RES_NEW_MULTIFAM_NSA,Private Residential Construction: New multifamily (Not Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New multifamily,false
+PRIVATE_RES_NEW_MULTIFAM_SA,Private Residential Construction: New multifamily (Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New multifamily,true
+PRIVATE_RES_NEW_MULTIFAM_STD_ERR_MM,"Private Residential Construction: New multifamily: Standard Error, Month-to-month change",Private Residential Construction,Percent,Monthly,,,New multifamily,
+PRIVATE_RES_NEW_MULTIFAM_STD_ERR_MM_PY,"Private Residential Construction: New multifamily: Standard Error, Month-to-month change from previous year",Private Residential Construction,Percent,Monthly,,,New multifamily,
+PRIVATE_RES_NEW_MULTIFAM_STD_ERR_YTD,"Private Residential Construction: New multifamily: Standard Error, Year-to-date change",Private Residential Construction,Percent,Monthly,,,New multifamily,
+PRIVATE_RES_NEW_NSA,Private Residential Construction: New multi-family (Not Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New multi-family,false
+PRIVATE_RES_NEW_SA,Private Residential Construction: New multi-family (Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New multi-family,true
+PRIVATE_RES_NEW_SINGLEFAM_A,Private Residential Construction: New single family (Annual),Private Residential Construction,USD,Annual,,,New single family,
+PRIVATE_RES_NEW_SINGLEFAM_COEFF_M,"Private Residential Construction: New single family: Coefficienct of Variation, Monthly Estimate",Private Residential Construction,Percent,Monthly,,,New single family,
+PRIVATE_RES_NEW_SINGLEFAM_COEFF_YTD,"Private Residential Construction: New single family: Coefficient of Variation, Year-to-date estimate",Private Residential Construction,Percent,Monthly,,,New single family,
+PRIVATE_RES_NEW_SINGLEFAM_NSA,Private Residential Construction: New single family (Not Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New single family,false
+PRIVATE_RES_NEW_SINGLEFAM_SA,Private Residential Construction: New single family (Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,New single family,true
+PRIVATE_RES_NEW_SINGLEFAM_STD_ERR_MM,"Private Residential Construction: New single family: Standard Error, Month-to-month change",Private Residential Construction,Percent,Monthly,,,New single family,
+PRIVATE_RES_NEW_SINGLEFAM_STD_ERR_MM_PY,"Private Residential Construction: New single family: Standard Error, Month-to-month change from previous year",Private Residential Construction,Percent,Monthly,,,New single family,
+PRIVATE_RES_NEW_SINGLEFAM_STD_ERR_YTD,"Private Residential Construction: New single family: Standard Error, Year-to-date change",Private Residential Construction,Percent,Monthly,,,New single family,
+PRIVATE_RES_NEW_STD_ERR_MM,"Private Residential Construction: New multi-family: Standard Error, Month-to-month change",Private Residential Construction,Percent,Monthly,,,New multi-family,
+PRIVATE_RES_NEW_STD_ERR_MM_PY,"Private Residential Construction: New multi-family: Standard Error, Month-to-month change from previous year",Private Residential Construction,Percent,Monthly,,,New multi-family,
+PRIVATE_RES_NEW_STD_ERR_YTD,"Private Residential Construction: New multi-family: Standard Error, Year-to-date change",Private Residential Construction,Percent,Monthly,,,New multi-family,
+PRIVATE_RES_NSA,Private Residential Construction (Not Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,,false
+PRIVATE_RES_SA,Private Residential Construction (Seasonally Adjusted),Private Residential Construction,USD,Monthly,,,,true
+PRIVATE_RES_STD_ERR_MM,"Private Residential Construction: Standard Error, Month-to-month change",Private Residential Construction,Percent,Monthly,,,,
+PRIVATE_RES_STD_ERR_MM_PY,"Private Residential Construction: Standard Error, Month-to-month change from previous year",Private Residential Construction,Percent,Monthly,,,,
+PRIVATE_RES_STD_ERR_YTD,"Private Residential Construction: Standard Error, Year-to-date change",Private Residential Construction,Percent,Monthly,,,,
+PRIVATE_TOTAL_A,Total Private Construction (Annual),Private Construction,USD,Annual,,,,
+PRIVATE_TOTAL_COEFF_M,"Total Private Construction: Coefficienct of Variation, Monthly Estimate",Private Construction,Percent,Monthly,,,,
+PRIVATE_TOTAL_COEFF_YTD,"Total Private Construction: Coefficient of Variation, Year-to-date estimate",Private Construction,Percent,Monthly,,,,
+PRIVATE_TOTAL_NSA,Total Private Construction (Not Seasonally Adjusted),Private Construction,USD,Monthly,,,,false
+PRIVATE_TOTAL_SA,Total Private Construction (Seasonally Adjusted),Private Construction,USD,Monthly,,,,true
+PRIVATE_TOTAL_STD_ERR_MM,"Total Private Construction: Standard Error, Month-to-month change",Private Construction,Percent,Monthly,,,,
+PRIVATE_TOTAL_STD_ERR_MM_PY,"Total Private Construction: Standard Error, Month-to-month change from previous year",Private Construction,Percent,Monthly,,,,
+PRIVATE_TOTAL_STD_ERR_YTD,"Total Private Construction: Standard Error, Year-to-date change",Private Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_A,Public Nonresidential Construction (Annual),Public Nonresidential Construction,USD,Annual,,,,
+PUBLIC_NONRES_AMUSEMENT_A,Public Nonresidential Construction: Amusement and recreation (Annual),Public Nonresidential Construction,USD,Annual,,,Amusement and recreation,
+PUBLIC_NONRES_AMUSEMENT_COEFF_M,"Public Nonresidential Construction: Amusement and recreation: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PUBLIC_NONRES_AMUSEMENT_COEFF_YTD,"Public Nonresidential Construction: Amusement and recreation: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PUBLIC_NONRES_AMUSEMENT_NSA,Public Nonresidential Construction: Amusement and recreation (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Amusement and recreation,false
+PUBLIC_NONRES_AMUSEMENT_SA,Public Nonresidential Construction: Amusement and recreation (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Amusement and recreation,true
+PUBLIC_NONRES_AMUSEMENT_STD_ERR_MM,"Public Nonresidential Construction: Amusement and recreation: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PUBLIC_NONRES_AMUSEMENT_STD_ERR_MM_PY,"Public Nonresidential Construction: Amusement and recreation: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PUBLIC_NONRES_AMUSEMENT_STD_ERR_YTD,"Public Nonresidential Construction: Amusement and recreation: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Amusement and recreation,
+PUBLIC_NONRES_COEFF_M,"Public Nonresidential Construction: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_COEFF_YTD,"Public Nonresidential Construction: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_COMMERCIAL_A,Public Nonresidential Construction: Commercial (Annual),Public Nonresidential Construction,USD,Annual,,,Commercial,
+PUBLIC_NONRES_COMMERCIAL_COEFF_M,"Public Nonresidential Construction: Commercial: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Commercial,
+PUBLIC_NONRES_COMMERCIAL_COEFF_YTD,"Public Nonresidential Construction: Commercial: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Commercial,
+PUBLIC_NONRES_COMMERCIAL_NSA,Public Nonresidential Construction: Commercial (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Commercial,false
+PUBLIC_NONRES_COMMERCIAL_SA,Public Nonresidential Construction: Commercial (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Commercial,true
+PUBLIC_NONRES_COMMERCIAL_STD_ERR_MM,"Public Nonresidential Construction: Commercial: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Commercial,
+PUBLIC_NONRES_COMMERCIAL_STD_ERR_MM_PY,"Public Nonresidential Construction: Commercial: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Commercial,
+PUBLIC_NONRES_COMMERCIAL_STD_ERR_YTD,"Public Nonresidential Construction: Commercial: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Commercial,
+PUBLIC_NONRES_CONSERVATION_A,Public Nonresidential Construction: Conservation and development (Annual),Public Nonresidential Construction,USD,Annual,,,Conservation and development,
+PUBLIC_NONRES_CONSERVATION_COEFF_M,"Public Nonresidential Construction: Conservation and development: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+PUBLIC_NONRES_CONSERVATION_COEFF_YTD,"Public Nonresidential Construction: Conservation and development: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+PUBLIC_NONRES_CONSERVATION_NSA,Public Nonresidential Construction: Conservation and development (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Conservation and development,false
+PUBLIC_NONRES_CONSERVATION_SA,Public Nonresidential Construction: Conservation and development (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Conservation and development,true
+PUBLIC_NONRES_CONSERVATION_STD_ERR_MM,"Public Nonresidential Construction: Conservation and development: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+PUBLIC_NONRES_CONSERVATION_STD_ERR_MM_PY,"Public Nonresidential Construction: Conservation and development: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+PUBLIC_NONRES_CONSERVATION_STD_ERR_YTD,"Public Nonresidential Construction: Conservation and development: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Conservation and development,
+PUBLIC_NONRES_EDUCATIONAL_A,Public Nonresidential Construction: Educational (Annual),Public Nonresidential Construction,USD,Annual,,,Educational,
+PUBLIC_NONRES_EDUCATIONAL_COEFF_M,"Public Nonresidential Construction: Educational: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Educational,
+PUBLIC_NONRES_EDUCATIONAL_COEFF_YTD,"Public Nonresidential Construction: Educational: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Educational,
+PUBLIC_NONRES_EDUCATIONAL_NSA,Public Nonresidential Construction: Educational (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Educational,false
+PUBLIC_NONRES_EDUCATIONAL_SA,Public Nonresidential Construction: Educational (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Educational,true
+PUBLIC_NONRES_EDUCATIONAL_STD_ERR_MM,"Public Nonresidential Construction: Educational: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Educational,
+PUBLIC_NONRES_EDUCATIONAL_STD_ERR_MM_PY,"Public Nonresidential Construction: Educational: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Educational,
+PUBLIC_NONRES_EDUCATIONAL_STD_ERR_YTD,"Public Nonresidential Construction: Educational: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Educational,
+PUBLIC_NONRES_HEALTH_A,Public Nonresidential Construction: Health care (Annual),Public Nonresidential Construction,USD,Annual,,,Health care,
+PUBLIC_NONRES_HEALTH_COEFF_M,"Public Nonresidential Construction: Health care: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Health care,
+PUBLIC_NONRES_HEALTH_COEFF_YTD,"Public Nonresidential Construction: Health care: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Health care,
+PUBLIC_NONRES_HEALTH_NSA,Public Nonresidential Construction: Health care (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Health care,false
+PUBLIC_NONRES_HEALTH_SA,Public Nonresidential Construction: Health care (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Health care,true
+PUBLIC_NONRES_HEALTH_STD_ERR_MM,"Public Nonresidential Construction: Health care: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Health care,
+PUBLIC_NONRES_HEALTH_STD_ERR_MM_PY,"Public Nonresidential Construction: Health care: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Health care,
+PUBLIC_NONRES_HEALTH_STD_ERR_YTD,"Public Nonresidential Construction: Health care: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Health care,
+PUBLIC_NONRES_HIGHWAY_A,Public Nonresidential Construction: Highway and street (Annual),Public Nonresidential Construction,USD,Annual,,,Highway and street,
+PUBLIC_NONRES_HIGHWAY_COEFF_M,"Public Nonresidential Construction: Highway and street: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Highway and street,
+PUBLIC_NONRES_HIGHWAY_COEFF_YTD,"Public Nonresidential Construction: Highway and street: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Highway and street,
+PUBLIC_NONRES_HIGHWAY_NSA,Public Nonresidential Construction: Highway and street (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Highway and street,false
+PUBLIC_NONRES_HIGHWAY_SA,Public Nonresidential Construction: Highway and street (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Highway and street,true
+PUBLIC_NONRES_HIGHWAY_STD_ERR_MM,"Public Nonresidential Construction: Highway and street: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Highway and street,
+PUBLIC_NONRES_HIGHWAY_STD_ERR_MM_PY,"Public Nonresidential Construction: Highway and street: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Highway and street,
+PUBLIC_NONRES_HIGHWAY_STD_ERR_YTD,"Public Nonresidential Construction: Highway and street: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Highway and street,
+PUBLIC_NONRES_NSA,Public Nonresidential Construction (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,,false
+PUBLIC_NONRES_OFFICE_A,Public Nonresidential Construction: Office (Annual),Public Nonresidential Construction,USD,Annual,,,Office,
+PUBLIC_NONRES_OFFICE_COEFF_M,"Public Nonresidential Construction: Office: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Office,
+PUBLIC_NONRES_OFFICE_COEFF_YTD,"Public Nonresidential Construction: Office: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Office,
+PUBLIC_NONRES_OFFICE_NSA,Public Nonresidential Construction: Office (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Office,false
+PUBLIC_NONRES_OFFICE_SA,Public Nonresidential Construction: Office (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Office,true
+PUBLIC_NONRES_OFFICE_STD_ERR_MM,"Public Nonresidential Construction: Office: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Office,
+PUBLIC_NONRES_OFFICE_STD_ERR_MM_PY,"Public Nonresidential Construction: Office: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Office,
+PUBLIC_NONRES_OFFICE_STD_ERR_YTD,"Public Nonresidential Construction: Office: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Office,
+PUBLIC_NONRES_POWER_A,Public Nonresidential Construction: Power (Annual),Public Nonresidential Construction,USD,Annual,,,Power,
+PUBLIC_NONRES_POWER_COEFF_M,"Public Nonresidential Construction: Power: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Power,
+PUBLIC_NONRES_POWER_COEFF_YTD,"Public Nonresidential Construction: Power: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Power,
+PUBLIC_NONRES_POWER_NSA,Public Nonresidential Construction: Power (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Power,false
+PUBLIC_NONRES_POWER_SA,Public Nonresidential Construction: Power (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Power,true
+PUBLIC_NONRES_POWER_STD_ERR_MM,"Public Nonresidential Construction: Power: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Power,
+PUBLIC_NONRES_POWER_STD_ERR_MM_PY,"Public Nonresidential Construction: Power: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Power,
+PUBLIC_NONRES_POWER_STD_ERR_YTD,"Public Nonresidential Construction: Power: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Power,
+PUBLIC_NONRES_PUBLIC_A,Public Nonresidential Construction: Public safety (Annual),Public Nonresidential Construction,USD,Annual,,,Public safety,
+PUBLIC_NONRES_PUBLIC_COEFF_M,"Public Nonresidential Construction: Public safety: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Public safety,
+PUBLIC_NONRES_PUBLIC_COEFF_YTD,"Public Nonresidential Construction: Public safety: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Public safety,
+PUBLIC_NONRES_PUBLIC_NSA,Public Nonresidential Construction: Public safety (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Public safety,false
+PUBLIC_NONRES_PUBLIC_SA,Public Nonresidential Construction: Public safety (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Public safety,true
+PUBLIC_NONRES_PUBLIC_STD_ERR_MM,"Public Nonresidential Construction: Public safety: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Public safety,
+PUBLIC_NONRES_PUBLIC_STD_ERR_MM_PY,"Public Nonresidential Construction: Public safety: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Public safety,
+PUBLIC_NONRES_PUBLIC_STD_ERR_YTD,"Public Nonresidential Construction: Public safety: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Public safety,
+PUBLIC_NONRES_SA,Public Nonresidential Construction (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,,true
+PUBLIC_NONRES_SEWAGE_A,Public Nonresidential Construction: Sewage and waste disposal (Annual),Public Nonresidential Construction,USD,Annual,,,Sewage and waste disposal,
+PUBLIC_NONRES_SEWAGE_COEFF_M,"Public Nonresidential Construction: Sewage and waste disposal: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+PUBLIC_NONRES_SEWAGE_COEFF_YTD,"Public Nonresidential Construction: Sewage and waste disposal: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+PUBLIC_NONRES_SEWAGE_NSA,Public Nonresidential Construction: Sewage and waste disposal (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Sewage and waste disposal,false
+PUBLIC_NONRES_SEWAGE_SA,Public Nonresidential Construction: Sewage and waste disposal (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Sewage and waste disposal,true
+PUBLIC_NONRES_SEWAGE_STD_ERR_MM,"Public Nonresidential Construction: Sewage and waste disposal: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+PUBLIC_NONRES_SEWAGE_STD_ERR_MM_PY,"Public Nonresidential Construction: Sewage and waste disposal: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+PUBLIC_NONRES_SEWAGE_STD_ERR_YTD,"Public Nonresidential Construction: Sewage and waste disposal: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Sewage and waste disposal,
+PUBLIC_NONRES_STD_ERR_MM,"Public Nonresidential Construction: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_STD_ERR_MM_PY,"Public Nonresidential Construction: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_STD_ERR_YTD,"Public Nonresidential Construction: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,,
+PUBLIC_NONRES_TRANSPORTATION_A,Public Nonresidential Construction: Transportation (Annual),Public Nonresidential Construction,USD,Annual,,,Transportation,
+PUBLIC_NONRES_TRANSPORTATION_COEFF_M,"Public Nonresidential Construction: Transportation: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Transportation,
+PUBLIC_NONRES_TRANSPORTATION_COEFF_YTD,"Public Nonresidential Construction: Transportation: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Transportation,
+PUBLIC_NONRES_TRANSPORTATION_NSA,Public Nonresidential Construction: Transportation (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Transportation,false
+PUBLIC_NONRES_TRANSPORTATION_SA,Public Nonresidential Construction: Transportation (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Transportation,true
+PUBLIC_NONRES_TRANSPORTATION_STD_ERR_MM,"Public Nonresidential Construction: Transportation: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Transportation,
+PUBLIC_NONRES_TRANSPORTATION_STD_ERR_MM_PY,"Public Nonresidential Construction: Transportation: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Transportation,
+PUBLIC_NONRES_TRANSPORTATION_STD_ERR_YTD,"Public Nonresidential Construction: Transportation: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Transportation,
+PUBLIC_NONRES_WATER_A,Public Nonresidential Construction: Water supply (Annual),Public Nonresidential Construction,USD,Annual,,,Water supply,
+PUBLIC_NONRES_WATER_COEFF_M,"Public Nonresidential Construction: Water supply: Coefficienct of Variation, Monthly Estimate",Public Nonresidential Construction,Percent,Monthly,,,Water supply,
+PUBLIC_NONRES_WATER_COEFF_YTD,"Public Nonresidential Construction: Water supply: Coefficient of Variation, Year-to-date estimate",Public Nonresidential Construction,Percent,Monthly,,,Water supply,
+PUBLIC_NONRES_WATER_NSA,Public Nonresidential Construction: Water supply (Not Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Water supply,false
+PUBLIC_NONRES_WATER_SA,Public Nonresidential Construction: Water supply (Seasonally Adjusted),Public Nonresidential Construction,USD,Monthly,,,Water supply,true
+PUBLIC_NONRES_WATER_STD_ERR_MM,"Public Nonresidential Construction: Water supply: Standard Error, Month-to-month change",Public Nonresidential Construction,Percent,Monthly,,,Water supply,
+PUBLIC_NONRES_WATER_STD_ERR_MM_PY,"Public Nonresidential Construction: Water supply: Standard Error, Month-to-month change from previous year",Public Nonresidential Construction,Percent,Monthly,,,Water supply,
+PUBLIC_NONRES_WATER_STD_ERR_YTD,"Public Nonresidential Construction: Water supply: Standard Error, Year-to-date change",Public Nonresidential Construction,Percent,Monthly,,,Water supply,
+PUBLIC_RES_A,Public Residential Construction (Annual),Public Residential Construction,USD,Annual,,,,
+PUBLIC_RES_COEFF_M,"Public Residential Construction: Coefficienct of Variation, Monthly Estimate",Public Residential Construction,Percent,Monthly,,,,
+PUBLIC_RES_COEFF_YTD,"Public Residential Construction: Coefficient of Variation, Year-to-date estimate",Public Residential Construction,Percent,Monthly,,,,
+PUBLIC_RES_NSA,Public Residential Construction (Not Seasonally Adjusted),Public Residential Construction,USD,Monthly,,,,false
+PUBLIC_RES_SA,Public Residential Construction (Seasonally Adjusted),Public Residential Construction,USD,Monthly,,,,true
+PUBLIC_RES_STD_ERR_MM,"Public Residential Construction: Standard Error, Month-to-month change",Public Residential Construction,Percent,Monthly,,,,
+PUBLIC_RES_STD_ERR_MM_PY,"Public Residential Construction: Standard Error, Month-to-month change from previous year",Public Residential Construction,Percent,Monthly,,,,
+PUBLIC_RES_STD_ERR_YTD,"Public Residential Construction: Standard Error, Year-to-date change",Public Residential Construction,Percent,Monthly,,,,
+PUBLIC_TOTAL_A,Total Public Construction (Annual),Public Construction,USD,Annual,,,,
+PUBLIC_TOTAL_COEFF_M,"Total Public Construction: Coefficienct of Variation, Monthly Estimate",Public Construction,Percent,Monthly,,,,
+PUBLIC_TOTAL_COEFF_YTD,"Total Public Construction: Coefficient of Variation, Year-to-date estimate",Public Construction,Percent,Monthly,,,,
+PUBLIC_TOTAL_NSA,Total Public Construction (Not Seasonally Adjusted),Public Construction,USD,Monthly,,,,false
+PUBLIC_TOTAL_SA,Total Public Construction (Seasonally Adjusted),Public Construction,USD,Monthly,,,,true
+PUBLIC_TOTAL_STD_ERR_MM,"Total Public Construction: Standard Error, Month-to-month change",Public Construction,Percent,Monthly,,,,
+PUBLIC_TOTAL_STD_ERR_MM_PY,"Total Public Construction: Standard Error, Month-to-month change from previous year",Public Construction,Percent,Monthly,,,,
+PUBLIC_TOTAL_STD_ERR_YTD,"Total Public Construction: Standard Error, Year-to-date change",Public Construction,Percent,Monthly,,,,
+TOTAL_BLDGS_A,Total buildings: Estimates With Imputation (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,,
+TOTAL_BLDGS_M,"Total buildings: Estimates With Imputation (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,,
+TOTAL_BLDGS_M_YTD,"Total buildings: Estimates With Imputation (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,,
+TOTAL_BLDGS_REP_A,Total buildings: Reported Only Data (Annual),Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,,
+TOTAL_BLDGS_REP_M,"Total buildings: Reported Only Data (Monthly, Current Month)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,,
+TOTAL_BLDGS_REP_M_YTD,"Total buildings: Reported Only Data (Monthly, Year-to-Date)",Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,,
+TOTAL_UNITS_A,Total Units: Estimates With Imputation (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,,
+TOTAL_UNITS_M,"Total Units: Estimates With Imputation (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,,
+TOTAL_UNITS_M_YTD,"Total Units: Estimates With Imputation (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,,
+TOTAL_UNITS_REP_A,Total Units Reported: Reported Only Data (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,,
+TOTAL_UNITS_REP_M,"Total Units Reported: Reported Only Data (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,,
+TOTAL_UNITS_REP_M_YTD,"Total Units Reported: Reported Only Data (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,,
+TOTAL_VALUE_A,Total Value: Estimates With Imputation (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Estimates With Imputation,,,
+TOTAL_VALUE_M,"Total Value: Estimates With Imputation (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Current Month,,
+TOTAL_VALUE_M_YTD,"Total Value: Estimates With Imputation (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Year-to-Date,,
+TOTAL_VALUE_REP_A,Total Value Reported: Reported Only Data (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Reported Only Data,,,
+TOTAL_VALUE_REP_M,"Total Value Reported: Reported Only Data (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Current Month,,
+TOTAL_VALUE_REP_M_YTD,"Total Value Reported: Reported Only Data (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Year-to-Date,,
+UNITS_1_UNIT_A,Single Family Houses units: Estimates With Imputation (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Single Family Houses,
+UNITS_1_UNIT_M,"Single Family Houses units: Estimates With Imputation (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Single Family Houses,
+UNITS_1_UNIT_M_YTD,"Single Family Houses units: Estimates With Imputation (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Single Family Houses,
+UNITS_1_UNIT_REP_A,Single Family Houses units reported: Reported Only Data (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Single Family Houses,
+UNITS_1_UNIT_REP_M,"Single Family Houses units reported: Reported Only Data (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Single Family Houses,
+UNITS_1_UNIT_REP_M_YTD,"Single Family Houses units reported: Reported Only Data (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Single Family Houses,
+UNITS_2_UNITS_A,Two-Family Buildings units: Estimates With Imputation (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Two-Family Buildings,
+UNITS_2_UNITS_M,"Two-Family Buildings units: Estimates With Imputation (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Two-Family Buildings,
+UNITS_2_UNITS_M_YTD,"Two-Family Buildings units: Estimates With Imputation (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Two-Family Buildings,
+UNITS_2_UNITS_REP_A,Two-Family Buildings units reported: Reported Only Data (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Two-Family Buildings,
+UNITS_2_UNITS_REP_M,"Two-Family Buildings units reported: Reported Only Data (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Two-Family Buildings,
+UNITS_2_UNITS_REP_M_YTD,"Two-Family Buildings units reported: Reported Only Data (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Two-Family Buildings,
+UNITS_3_4_UNITS_A,Three- and Four-Family Buildings units: Estimates With Imputation (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Three- and Four-Family Buildings,
+UNITS_3_4_UNITS_M,"Three- and Four-Family Buildings units: Estimates With Imputation (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Three- and Four-Family Buildings,
+UNITS_3_4_UNITS_M_YTD,"Three- and Four-Family Buildings units: Estimates With Imputation (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Three- and Four-Family Buildings,
+UNITS_3_4_UNITS_REP_A,Three- and Four-Family Buildings units reported: Reported Only Data (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Three- and Four-Family Buildings,
+UNITS_3_4_UNITS_REP_M,"Three- and Four-Family Buildings units reported: Reported Only Data (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Three- and Four-Family Buildings,
+UNITS_3_4_UNITS_REP_M_YTD,"Three- and Four-Family Buildings units reported: Reported Only Data (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Three- and Four-Family Buildings,
+UNITS_5_UNITS_A,Five-or-More Family Buildings units: Estimates With Imputation (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Estimates With Imputation,,Five-or-More Family Buildings,
+UNITS_5_UNITS_M,"Five-or-More Family Buildings units: Estimates With Imputation (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Current Month,Five-or-More Family Buildings,
+UNITS_5_UNITS_M_YTD,"Five-or-More Family Buildings units: Estimates With Imputation (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Estimates With Imputation,Year-to-Date,Five-or-More Family Buildings,
+UNITS_5_UNITS_REP_A,Five-or-More Family Buildings units reported: Reported Only Data (Annual),New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Annual,Reported Only Data,,Five-or-More Family Buildings,
+UNITS_5_UNITS_REP_M,"Five-or-More Family Buildings units reported: Reported Only Data (Monthly, Current Month)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Current Month,Five-or-More Family Buildings,
+UNITS_5_UNITS_REP_M_YTD,"Five-or-More Family Buildings units reported: Reported Only Data (Monthly, Year-to-Date)",New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,Count,Monthly,Reported Only Data,Year-to-Date,Five-or-More Family Buildings,
+VALUE_1_UNIT_A,Single Family Houses valuation: Estimates With Imputation (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Estimates With Imputation,,Single Family Houses,
+VALUE_1_UNIT_M,"Single Family Houses valuation: Estimates With Imputation (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Current Month,Single Family Houses,
+VALUE_1_UNIT_M_YTD,"Single Family Houses valuation: Estimates With Imputation (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Year-to-Date,Single Family Houses,
+VALUE_1_UNIT_REP_A,Single Family Houses valuation reported: Reported Only Data (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Reported Only Data,,Single Family Houses,
+VALUE_1_UNIT_REP_M,"Single Family Houses valuation reported: Reported Only Data (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Current Month,Single Family Houses,
+VALUE_1_UNIT_REP_M_YTD,"Single Family Houses valuation reported: Reported Only Data (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Year-to-Date,Single Family Houses,
+VALUE_2_UNITS_A,Two-Family Buildings valuation: Estimates With Imputation (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Estimates With Imputation,,Two-Family Buildings,
+VALUE_2_UNITS_M,"Two-Family Buildings valuation: Estimates With Imputation (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Current Month,Two-Family Buildings,
+VALUE_2_UNITS_M_YTD,"Two-Family Buildings valuation: Estimates With Imputation (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Year-to-Date,Two-Family Buildings,
+VALUE_2_UNITS_REP_A,Two-Family Buildings valuation reported: Reported Only Data (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Reported Only Data,,Two-Family Buildings,
+VALUE_2_UNITS_REP_M,"Two-Family Buildings valuation reported: Reported Only Data (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Current Month,Two-Family Buildings,
+VALUE_2_UNITS_REP_M_YTD,"Two-Family Buildings valuation reported: Reported Only Data (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Year-to-Date,Two-Family Buildings,
+VALUE_3_4_UNITS_A,Three- and Four-Family Buildings valuation: Estimates With Imputation (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Estimates With Imputation,,Three- and Four-Family Buildings,
+VALUE_3_4_UNITS_M,"Three- and Four-Family Buildings valuation: Estimates With Imputation (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Current Month,Three- and Four-Family Buildings,
+VALUE_3_4_UNITS_M_YTD,"Three- and Four-Family Buildings valuation: Estimates With Imputation (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Year-to-Date,Three- and Four-Family Buildings,
+VALUE_3_4_UNITS_REP_A,Three- and Four-Family Buildings valuation reported: Reported Only Data (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Reported Only Data,,Three- and Four-Family Buildings,
+VALUE_3_4_UNITS_REP_M,"Three- and Four-Family Buildings valuation reported: Reported Only Data (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Current Month,Three- and Four-Family Buildings,
+VALUE_3_4_UNITS_REP_M_YTD,"Three- and Four-Family Buildings valuation reported: Reported Only Data (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Year-to-Date,Three- and Four-Family Buildings,
+VALUE_5_UNITS_A,Five-or-More Family Buildings valuation: Estimates With Imputation (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Estimates With Imputation,,Five-or-More Family Buildings,
+VALUE_5_UNITS_M,"Five-or-More Family Buildings valuation: Estimates With Imputation (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Current Month,Five-or-More Family Buildings,
+VALUE_5_UNITS_M_YTD,"Five-or-More Family Buildings valuation: Estimates With Imputation (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Estimates With Imputation,Year-to-Date,Five-or-More Family Buildings,
+VALUE_5_UNITS_REP_A,Five-or-More Family Buildings valuation reported: Reported Only Data (Annual),Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Annual,Reported Only Data,,Five-or-More Family Buildings,
+VALUE_5_UNITS_REP_M,"Five-or-More Family Buildings valuation reported: Reported Only Data (Monthly, Current Month)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Current Month,Five-or-More Family Buildings,
+VALUE_5_UNITS_REP_M_YTD,"Five-or-More Family Buildings valuation reported: Reported Only Data (Monthly, Year-to-Date)",Valuation of New Privately Owned Housing Units Authorized by Building Permits in Permit-Issuing Places,USD,Monthly,Reported Only Data,Year-to-Date,Five-or-More Family Buildings,
